@@ -1,0 +1,3 @@
+[submodule "spacecam_hardware"]
+	path = spacecam_hardware
+	url = https://github.com/nilseuropa/spacecam_hardware
