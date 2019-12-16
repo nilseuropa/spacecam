@@ -4,3 +4,6 @@
 [submodule "spacecam_firmware"]
 	path = spacecam_firmware
 	url = https://github.com/nilseuropa/spacecam_firmware
+[submodule "spacecam_gazebo_plugin"]
+	path = spacecam_gazebo_plugin
+	url = https://github.com/nilseuropa/spacecam_gazebo_plugin

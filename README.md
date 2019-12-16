@@ -7,6 +7,7 @@ Various robotic and VR research and development projects require a reliable grou
 
 ### Capabilities
 * Tracks 4 IR light sources simultaneously
+* 1024x768 resolution
 * 100Hz sample rate
 * WiFi AP or WiFi client mode or direct USB connection
 * Embedded web server for easy configuration
@@ -29,7 +30,7 @@ Various robotic and VR research and development projects require a reliable grou
 2. Get the [firmware source](https://github.com/nilseuropa/spacecam_firmware), compile and upload it to the board.
 3. Use the raw output or the [ROS bridge](https://github.com/nilseuropa/spacecam_ros_bridge) to start thinkering with it.
 
-The Gazebo plugin is available [here]().
+The Gazebo plugin is available [here](https://github.com/nilseuropa/spacecam_gazebo_plugin).
 
 ### To Do
 * find the design files on one of my computers for WiFi enabled markers
