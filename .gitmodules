@@ -7,3 +7,6 @@
 [submodule "spacecam_gazebo_plugin"]
 	path = spacecam_gazebo_plugin
 	url = https://github.com/nilseuropa/spacecam_gazebo_plugin
+[submodule "spacecam_ros_bridge"]
+	path = spacecam_ros_bridge
+	url = https://github.com/nilseuropa/spacecam_ros_bridge

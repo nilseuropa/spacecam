@@ -26,9 +26,9 @@ Various robotic and VR research and development projects require a reliable grou
 ![](doc/sc_ros.png)
 
 ### How to get started
-1. Get the design files from this [repository](https://github.com/nilseuropa/spacecam_hardware) and follow the instructions to build one.
+1. Get the [hardware design files](https://github.com/nilseuropa/spacecam_hardware) and build one.
 2. Get the [firmware source](https://github.com/nilseuropa/spacecam_firmware), compile and upload it to the board.
-3. Use the raw output or the [ROS bridge](https://github.com/nilseuropa/spacecam_ros_bridge) to start thinkering with it.
+3. Use the raw output or the [ROS bridge](https://github.com/nilseuropa/spacecam_ros_bridge) to start tinkering with it.
 
 The Gazebo plugin is available [here](https://github.com/nilseuropa/spacecam_gazebo_plugin).
 
