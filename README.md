@@ -13,6 +13,8 @@ Various robotic and VR research and development projects require a reliable grou
 * Embedded web server for easy configuration
 * ROS compatibility
 
+![](doc/spacecam.gif)
+
 ### Use cases
 * 2D/3D odometry benchmarking - *geometry_msgs::PoseWithCovariance*
 * 2D tracking of single point oscillations - *for example angular velocity of a marker on a wheel for automated PID tuning*
